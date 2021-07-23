@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Check Zoom settings for any changes
 // @author       You
-// @match        https://mcpsmd.zoom.us/profile/setting*
+// @match        http*://*.zoom.us/profile/setting*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // ==/UserScript==

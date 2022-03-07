@@ -18,6 +18,7 @@ Check Zoom settings
 	| Userscript       | Install link |
 	|------------------|:------------:|
 	| check zoom settings | [Install](https://github.com/BlazerYoo/check-zoom-settings/raw/main/CheckZoomSettings.user.js) |
+	| check zoom settings v2 | [Install](https://github.com/BlazerYoo/check-zoom-settings/raw/main/CheckZoomSettings2.user.js) |
 
 ## Issues
 
